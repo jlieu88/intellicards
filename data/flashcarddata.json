@@ -1,0 +1,20 @@
+{"flashcardsets": [{
+    "name": "New Set",
+    "flashcards": [
+        {
+            "correctness": true,
+            "question": "New Question 1",
+            "answer": "New Answer 1"
+        },
+        {
+            "correctness": false,
+            "question": "New Question 2",
+            "answer": "New Answer 2"
+        },
+        {
+            "correctness": true,
+            "question": "New Question 3",
+            "answer": "New Answer 3"
+        }
+    ]
+}]}
